@@ -79,7 +79,7 @@ class BotSettings(BaseSettings):
         # Can use `PeeweePlugin`:
         RememberPlugin("напомни",prefixes=prefixes),  # use_db=True, if you can use PeeweePlugin
 
-        # Plugins:
+        # 1Plugins:
         #VoterPlugin(prefixes=prefixes),
         #FacePlugin("сделай", prefixes=prefixes),
         #SmileWritePlugin("смайлами", prefixes=prefixes),
