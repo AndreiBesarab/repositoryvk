@@ -1,3 +1,5 @@
+DATABASE_SETTINGS = ("d83htok7cacgna", "ec2-54-243-59-122.compute-1.amazonaws.com", 5432, "uqfnqimiosiadj", "370e216c2b75e36d560a8907d736258732e7bc2eb8f2e19faad3d6336795afd3")
+
 class BaseSettings:
     # Заполнять ниже `BotSettings`
 
